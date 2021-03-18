@@ -1,5 +1,5 @@
 {
-    "name": "Two Player Coin Toss (One Microbit)",
+    "name": "Two Player Coin Toss",
     "description": "",
     "dependencies": {
         "core": "*",
